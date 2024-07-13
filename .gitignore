@@ -4,7 +4,7 @@
 *.iml
 *.png
 *.properties
-.idea/
+/.idea/
 /out/
 
 # Mobile Tools for Java (J2ME)
