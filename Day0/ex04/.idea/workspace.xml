@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e882862-2b6c-4c9b-994c-eb39e6237a58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex00/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ex05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex00/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex00/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex00/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex01/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex01/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex01/UserIdsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/UserIdsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/UsersArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex02/UsersList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/Transaction/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/Transaction/TransactionNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/Transaction/TransactionsLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/Transaction/TransactionsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/User/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/User/UserIdsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/User/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/User/UsersArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex03/User/UsersList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/IllegalTransactionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/TransactionNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/TransactionsLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/TransactionsList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/Transaction/TransactionsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/User/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/User/UserIdsGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/User/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/User/UsersArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day1/src/ex04/User/UsersList.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2iNhn1Bh2iUHJqaSHGPU27Y5wAj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ogrrn/IdeaProjects/bootcamp/Day0/ex05"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e882862-2b6c-4c9b-994c-eb39e6237a58" name="Changes" comment="" />
+      <created>1719337106026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719337106026</updated>
+    </task>
+    <servers />
+  </component>
+</project>
