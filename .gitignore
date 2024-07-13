@@ -1,9 +1,6 @@
-*.class
 *.jrtc
 *.info
 *.iml
-*.png
-*.properties
 /.idea/
 /out/
 
